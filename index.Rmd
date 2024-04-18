@@ -1,0 +1,23 @@
+---
+title: "AlberdiLab at the University of Vopenhagen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://alberdilab.github.io
+description: |
+  Data analysis code for the study on the comparison of 16S amplicon sequencing and genome-resolved metagenomics in desert bats.
+link-citations: yes
+github-repo: alberdilab/alberdilab.github.io
+---
+
+```{r knitr_opts, echo=FALSE}
+knitr::opts_chunk$set(
+    class.source = "script-source",
+    class.output = "script-output",
+    comment = NA)
+```
+
+# Introduction
+
+AlberdiLab is a research group at the University of Copenhagen focused on studying ecological and evolutionary implications of animal-microbiota interactions. The group is led by Associate Professor Antton Alberdi, and comprises over 20 researchers from all over the world.
