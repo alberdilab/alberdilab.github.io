@@ -1,5 +1,5 @@
 ---
-title: "AlberdiLab at the University of Vopenhagen"
+title: "AlberdiLab at the University of Copenhagen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -21,3 +21,35 @@ knitr::opts_chunk$set(
 # Introduction
 
 AlberdiLab is a research group at the University of Copenhagen focused on studying ecological and evolutionary implications of animal-microbiota interactions. The group is led by Associate Professor Antton Alberdi, and comprises over 20 researchers from all over the world.
+
+# Software
+
+## hilldiv2
+
+https://github.com/anttonalberdi/hilldiv2
+
+## distillR
+
+https://github.com/anttonalberdi/distillr
+
+## MetaDEEP
+
+https://github.com/anttonalberdi/metadeep
+
+# Studies
+
+## Hernandez et al. 2024
+
+https://alberdilab.github.io/lizard_sample_types/
+
+## Aizpurua et al. 2024
+
+https://alberdilab.github.io/desert_bats_metagenomics/
+
+## Santos-Bay et al. 2024
+
+https://alberdilab.github.io/behavioral_hologenomics/
+
+## Chao et al. 2024
+
+https://alberdilab.github.io/vulture_metagenomics/
